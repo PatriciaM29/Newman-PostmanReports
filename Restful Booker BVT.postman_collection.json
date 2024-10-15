@@ -1136,7 +1136,6 @@
 							"    pm.response.to.have.status(200);",
 							"});",
 							"",
-							"postman.setNextRequest(null);"
 						],
 						"type": "text/javascript",
 						"packages": {}
